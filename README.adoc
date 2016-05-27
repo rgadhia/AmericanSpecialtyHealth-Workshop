@@ -1,17 +1,17 @@
-= Pivotal Cloud Foundry Workshop @ AudaExplore
+= Pivotal Cloud Foundry Workshop @ American Specialty Health
 
 == Schedule
 
 This workshop will provide developers and operators an indepth overview of Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
-8:00 AM - 9:00 AM::   Registration & Setup
+
 *** link:prerequisites.adoc[** Setup Instructions **]
-9:00 AM - 10:30 AM::  Pushing, Binding Services & Scaling Apps with Pivotal Cloud Foundry
-10:30 AM - 10:45 AM:: Break
-10:45 AM - 11:15 PM:: Pivotal Cloud Foundry Architecture and Deep Dive
-11:15 AM - 12:00 PM:: Conversation about your Apps that you are planning to push to Cloud Foundry
+10:00 AM - 10:15 AM:: Intro's & Setup
+10:15 AM - 11:00 AM:: Pushing, Binding Services & Scaling Apps with Pivotal Cloud Foundry
+11:00 AM - 12:00 PM:: Pivotal Cloud Foundry Architecture and Deep Dive
 12:00 PM - 12:30 PM:: Lunch Break and Q&A
-12:30 PM - 4:30 PM::   Developer Focused Workshop Labs:
+12:30 PM -  1:00 PM:: Conversation about your Apps that you are planning to push to Cloud Foundry
+12:30 PM -  4:30 PM:: Developer Focused Workshop Labs:
   * Bring your own app and push to Cloud Foundry
 
 4:30 PM - 5:00 PM:: Q&A and Next Steps (4:30 PM - 5:00 PM)

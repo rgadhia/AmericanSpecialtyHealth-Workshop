@@ -1,10 +1,10 @@
-= Pivotal Cloud Foundry Workshop @ AudaExplore
+= Pivotal Cloud Foundry Workshop @ AmericanSpecialtyHealth
 
 == Prerequisites 
 
 *** Refer to your worksheet for your credentials
 *** Download and Install the CF CLI
-**** In a browser, go to https://apps.pcf1.cloud.fe.pivotal.io, log in and download the CF CLI for your Operating System. If you don't see this option when you log in, navigate to Tools menu.
+**** In a browser, go to https://apps.system.pcf.ashn.com, log in and download the CF CLI for your Operating System. If you don't see this option when you log in, navigate to Tools menu.
 *** Download and Install MySQL http://dev.mysql.com/downloads/mysql/ using the MySQL Installer for Windows
 *** Once MySQL is installed, create a database and user with the following script:
 ```
